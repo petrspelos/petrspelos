@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### Where to find me
+
+- [Discord](https://spelos.net/discord)
+- [YouTube](https://spelos.net/youtube)
+
 #### Weekly activity
 
 <!--START_SECTION:waka-->
