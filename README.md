@@ -9,7 +9,7 @@
   <td>
   
 ### Checkout some of my tutorials
-![video](https://i.imgur.com/ndfiH8w.png)
+[![video](https://i.imgur.com/ndfiH8w.png)](https://www.youtube.com/watch?v=alMS9LIjvD8)
   
   </td>
 </table>
