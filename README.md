@@ -14,10 +14,6 @@
   </td>
 </table>
 
-#### Where to find me
-
-
-
 #### Weekly activity
 
 <!--START_SECTION:waka-->
