@@ -14,7 +14,7 @@
   </td>
 </table>
 
-#### Weekly activity
+#### Weekly activity ⏱
 
 <!--START_SECTION:waka-->
 ```text
