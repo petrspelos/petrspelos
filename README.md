@@ -5,6 +5,8 @@
 
 [![D](https://img.shields.io/badge/Discord-Spelos%238123-7289DA?logo=discord&style=for-the-badge)](https://spelos.net/discord)
 
+[![W](https://img.shields.io/badge/website-sedlacek.tech-green?style=for-the-badge)](https://sedlacek.tech)
+
   </td>
   <td>
   
