@@ -10,13 +10,13 @@
   </td>
   <td>
   
-### I also make tutorials 🎓 
+### I also make tutorials 🎓
 [![video](https://i.imgur.com/ndfiH8w.png)](https://www.youtube.com/watch?v=alMS9LIjvD8)
   
   </td>
 </table>
 
-#### Weekly activity ⏱
+#### Weekly activity 📊
 
 <!--START_SECTION:waka-->
 ```text
