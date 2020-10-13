@@ -3,7 +3,7 @@
 
 [![YT](https://img.shields.io/badge/YouTube-Peter-red?logo=youtube&style=for-the-badge)](https://spelos.net/youtube)
 
-[![D](https://img.shields.io/badge/Discord-Spelos%238123-7289DA?logo=discord&style=for-the-badge)](https://spelos.net/discord)
+[![T](https://img.shields.io/badge/Twitch-Spelos-9147FF?logo=twitch&style=for-the-badge)](https://www.twitch.tv/spelos)
 
 [![W](https://img.shields.io/badge/website-sedlacek.tech-green?style=for-the-badge)](https://sedlacek.tech)
 
