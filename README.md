@@ -3,9 +3,9 @@
 
 [![YT](https://img.shields.io/badge/YouTube-Peter-red?logo=youtube&style=for-the-badge)](https://spelos.net/youtube)
 
-[![T](https://img.shields.io/badge/Twitch-Spelos-9147FF?logo=twitch&style=for-the-badge)](https://www.twitch.tv/spelos)
+[![T](https://img.shields.io/badge/Livestreams-spelos-9147FF?style=for-the-badge)](https://www.spelos.net/live)
 
-[![W](https://img.shields.io/badge/website-sedlacek.tech-green?style=for-the-badge)](https://sedlacek.tech)
+[![W](https://img.shields.io/badge/website-spelos.net-green?style=for-the-badge)](https://spelos.net)
 
   </td>
   <td>
