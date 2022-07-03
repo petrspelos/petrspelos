@@ -8,6 +8,8 @@ to develop my FOSS projects. I urge you to read about the
 [the Software Freedom Conservancy](https://sfconservancy.org) to understand
 some of the reasons why GitHub is not a good place to host FOSS projects.
 
+My projects will slowly migrated to [codeberg](https://codeberg.org/spelos).
+
 ![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
 
 <table>
