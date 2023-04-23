@@ -1,9 +1,7 @@
 <table>
   <td width="40%">
 
-[![YT](https://img.shields.io/badge/YouTube-Peter-red?logo=youtube&style=for-the-badge)](https://spelos.net/youtube)
-
-[![T](https://img.shields.io/badge/Livestreams-spelos-9147FF?style=for-the-badge)](https://www.spelos.net/live)
+[![YT](https://img.shields.io/badge/YouTube-Peter-red?logo=youtube&style=for-the-badge)]([https://spelos.net/youtube](https://www.youtube.com/@Peter-vt1sx))
 
 [![W](https://img.shields.io/badge/website-spelos.net-green?style=for-the-badge)](https://spelos.net)
 
